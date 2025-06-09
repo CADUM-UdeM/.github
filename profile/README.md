@@ -35,7 +35,7 @@ Extension mobile du projet Café sans-fil pour améliorer l'expérience des étu
 
 [🔗 **Voir le projet**](https://github.com/CADUM-UdeM/Cafe-sans-fil-mobile)
 
-**## 🛠️ Technologies**
+** 🛠️ Technologies**
 
 Stack technique moderne pour le développement mobile :
 - **Mobile** : React Native, Expo, TypeScript
