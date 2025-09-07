@@ -1,4 +1,4 @@
-# CADUM - Club d'Application Developpement à l'Université de Montréal
+# CADUM - Club d'Application Developpement de l'Université de Montréal
 
 <div align="center">
   <img src="cadum.png" alt="CADUM Logo" width="200"/>
@@ -10,7 +10,7 @@
 
 ## 🎯 À propos
 
-**CADUM** (Club d'Application Developpement à l'Université de Montréal) est un club étudiant de développement d'applications mobiles fondé à l'automne 2024. Nous rassemblons des étudiants passionnés par le développement mobile qui souhaitent apprendre, créer et collaborer sur des projets concrets.
+**CADUM** (Club d'Application Developpement de l'Université de Montréal) est un club étudiant de développement d'applications mobiles fondé à l'automne 2024. Nous rassemblons des étudiants passionnés par le développement mobile qui souhaitent apprendre, créer et collaborer sur des projets concrets.
 
 ### 🎨 Notre mission
 - Développer des compétences pratiques en développement d'applications mobiles
